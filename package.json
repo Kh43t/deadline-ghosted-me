@@ -1,0 +1,1 @@
+{"description":"Writes a one-line joke excusing a missed deadline to /output/entry.txt — a make.fun bounty entry.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"deadline-ghosted-me","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
